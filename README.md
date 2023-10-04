@@ -25,8 +25,7 @@ Customization
 The plugin uses standard WooCommerce actions and filters, making it easy to customize if needed. The provided CSS styles can be overridden in your theme's stylesheet for further customization.
 Author
 
-    Name: Your Name
-    License: GPL-2.0+
+    Name: dist
 
 Changelog
 1.0
@@ -35,7 +34,7 @@ Changelog
 
 Support
 
-For support, feature requests, or bug reports, please reach out to [Your Email or Support Link].
+For support, feature requests, or bug reports, please reach out to office.travilabs@gmail.com
 Conclusion
 
 "My Quantity Add to Cart" enhances the WooCommerce shopping experience by providing users with a more intuitive way to select product quantities and add them to their cart. The plugin is lightweight, easy to use, and integrates seamlessly with any WooCommerce theme.
